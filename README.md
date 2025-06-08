@@ -30,7 +30,8 @@ All intruder payloads from Burpsuite Professional Edition
 ├── Headers
 │   └── http_headers
 ├── Letters
-│   └── a-z
+│   ├── a-z
+│   └── A-Z
 ├── LICENSE
 ├── Methods
 │   └── http_verbs
